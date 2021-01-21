@@ -1,2 +1,1 @@
-# Chaser2D
-Chasers moving up and dwon the LED strip.
+Chaser2D is similar to Chaser, but chasers move both up and down the LED strip. This version has 20 chasers and the minimum dwell has been decreased to 1 (faster).
